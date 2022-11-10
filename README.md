@@ -15,8 +15,8 @@
 
 
 ## General Information
-- In order to create a web of celebrities that connect to Kevin Bacon I attempted to use python with networkx to make the process easier after seeing it done in another repository. After running into problems due to my limited code literacy I have had to rely on gephi to visulise my code. 
-- My project aims to debunk the theory of seperation. Although left incomplete I was successfully able to apply theoretical information and strengthen my literacy.
+- In order to create a web of celebrities that connect to Kevin Bacon I attempted to use python with networkx to make the process easier after seeing it done in another repository. After running into problems due to my limited code literacy I have had to rely on gephi to visualise my code. 
+- My project aimed to debunk the theory of seperation. Although left incomplete I was successfully able to apply theoretical information and strengthen my literacy.
 
 
 ## Technologies Used
