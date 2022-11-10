@@ -21,15 +21,8 @@
 
 ## Technologies Used
 - Kaggle - version 2.0 for access to data sets
-- Python 3 and NetworkX
+- Python 3 and NetworkX for code and organising data
 - Gephi - version 3.0c for visualising 
-
-
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
 
 
 ## Setup
