@@ -26,9 +26,7 @@
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
 Firstly I began with Python 3 using CloudStor Swan, after then pip installing Network X 1.10 I imported the data set 'TMBd 5000 Movie Dataset' from Kaggle. After having this in place and manipulating the data to draw a relationship with actors and Kevin Bacon I began to trial how NetworkX could visualise the code by realising the shortest path between Bacon and a random sample of actors. I ran into problems having such a large data set. Despite trying to create limitations and playing around with the langauge as advised by sites such as stackoverflow and geeksforgeeks. Despite asking some friends studying computer engineering, changing to an updated verison of Networkx, I had no luck. So in the end I manually inputted as much data as I could into Gephi so that I could have atleast something to show for my efforts.
 
 ## Usage
