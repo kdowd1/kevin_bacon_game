@@ -1,7 +1,7 @@
 # The Oracle of Kevin Bacon - code edition
 > For my project idea I was wanting to create a visualisation using Gephi of the 6 degrees of Kevin Bacon. The game's name is a reference to "six degrees of separation" phenomenon, a concept that posits that any two people on Earth are six or fewer acquaintance links apart. I will be visualising this using Hollywood actors. 
 
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo (https://web.microsoftstream.com/video/39682935-d43a-4be5-8cd9-659396b8e9c3). 
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -42,6 +42,7 @@ I cannot tell if the project is salvagable. So right now I am taking a pause, bu
 As you can see my last two commands have many value errors that I am still unsure how to fix. 
 Room for improvement:
 - Having a smaller datase
+- Using simpler progamming language
 
 To do:
 - Grow profiency in python, networkx and gephi
@@ -49,4 +50,4 @@ To do:
 ## Acknowledgements
 - This project was inspired by the exsisting theory surrounding Kevin Bacon
 - This project was based on https://oracleofbacon.org/ and https://github.com/brad-do/charts
-- Many thanks to Nick and Cameron for trying to help me code and my tutor Andrew for being supportive
+- Many thanks to Nick who helped me navigat coding language and my tutor Andrew for being supportive!
